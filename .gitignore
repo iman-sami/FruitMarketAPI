@@ -1,3 +1,11 @@
+config/
+routes/
+query/
+
+
+
+
+
 # Logs
 logs
 *.log
