@@ -1,0 +1,11 @@
+{
+  "name": "fruitmarketapi",
+  "version": "1.0.0",
+  "description": "fruit market rest api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iman-sami",
+  "license": "ISC"
+}
